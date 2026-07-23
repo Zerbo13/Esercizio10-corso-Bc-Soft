@@ -3,6 +3,7 @@ body {
 }
 
 .box1 {
+  background-color: lightcoral;
   border: 3px solid red;
   border-radius: 10px;
   border-width: 5px;
@@ -14,6 +15,7 @@ body {
 }
 
 .box2 {
+  background-color: lightyellow;
   border: 3px solid blue;
   border-radius: 10px;
   border-width: 40px;
@@ -28,6 +30,7 @@ body {
 }
 
 .box3 {
+  background-color: lightgreen;
   border: 20px solid;
   border-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfPzUQzE3SiaUxtHqfl_7gJgbw6_6fEXUvkw8uVqcTQ&s=10")
     40 repeat;
@@ -37,6 +40,7 @@ body {
 }
 
 .box4 {
+  background-color: lightblue;
   width: 300px;
   height: 300px;
   margin: -50px;
